@@ -36,12 +36,9 @@ namespace GeneralCollection
             //2
 
 
-            _1721_Swapping_Nodes_in_a_Linked_List.ListNode head = new _1721_Swapping_Nodes_in_a_Linked_List.ListNode(1,new _1721_Swapping_Nodes_in_a_Linked_List.ListNode(2));
-            _1721_Swapping_Nodes_in_a_Linked_List obj = new _1721_Swapping_Nodes_in_a_Linked_List();
-            obj.SwapNodes(head, 1);
+            //_1721_Swapping_Nodes_in_a_Linked_List.Main();
 
-
-
+            GeneralCollection.Completed_Collection._459_repeated_substring_pattern.EntryPoint();
 
             Console.ReadLine();
         }

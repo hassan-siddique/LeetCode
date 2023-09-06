@@ -46,6 +46,7 @@
     <Compile Include="Completed_Collection\_287_Find_the_Duplicate_Number.cs" />
     <Compile Include="Completed_Collection\_41._First_Missing_Positive.cs" />
     <Compile Include="Completed_Collection\415_Add_Strings.cs" />
+    <Compile Include="Completed_Collection\_459_repeated_substring_pattern.cs" />
     <Compile Include="Completed_Collection\_504_Base_7.cs" />
     <Compile Include="Completed_Collection\1946 Largest Number After Mutating Substring.cs" />
     <Compile Include="Completed_Collection\_765_Couples_Holding_Hands.cs" />
@@ -54,11 +55,13 @@
     <Compile Include="Completed_Collection\_2_Add_Two_Numbers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StillInProgress\1721_Swapping Nodes in a Linked List.cs" />
+    <Compile Include="Tough\1721_Swapping Nodes in a Linked List.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="StillInProgress\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
