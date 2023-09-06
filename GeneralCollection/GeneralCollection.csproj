@@ -55,6 +55,7 @@
     <Compile Include="Completed_Collection\_2_Add_Two_Numbers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Completed_Collection\_686_Repeated_String_Match.cs" />
     <Compile Include="Tough\1721_Swapping Nodes in a Linked List.cs" />
   </ItemGroup>
   <ItemGroup>

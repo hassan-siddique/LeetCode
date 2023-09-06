@@ -38,7 +38,9 @@ namespace GeneralCollection
 
             //_1721_Swapping_Nodes_in_a_Linked_List.Main();
 
-            GeneralCollection.Completed_Collection._459_repeated_substring_pattern.EntryPoint();
+            //GeneralCollection.Completed_Collection._459_repeated_substring_pattern.EntryPoint();
+
+            GeneralCollection.StillInProgress._686_Repeated_String_Match.EntryPoint();
 
             Console.ReadLine();
         }
