@@ -1,8 +1,0 @@
-C:\Users\Hassan\Dropbox\Learning\LeetCode\GeneralCollection\obj\Debug\GeneralCollection.csproj.AssemblyReference.cache
-C:\Users\Hassan\Dropbox\Learning\LeetCode\GeneralCollection\obj\Debug\GeneralCollection.csproj.SuggestedBindingRedirects.cache
-C:\Users\Hassan\Dropbox\Learning\LeetCode\GeneralCollection\obj\Debug\GeneralCollection.csproj.CoreCompileInputs.cache
-C:\Users\Hassan\Dropbox\Learning\LeetCode\GeneralCollection\bin\Debug\GeneralCollection.exe.config
-C:\Users\Hassan\Dropbox\Learning\LeetCode\GeneralCollection\bin\Debug\GeneralCollection.exe
-C:\Users\Hassan\Dropbox\Learning\LeetCode\GeneralCollection\bin\Debug\GeneralCollection.pdb
-C:\Users\Hassan\Dropbox\Learning\LeetCode\GeneralCollection\obj\Debug\GeneralCollection.exe
-C:\Users\Hassan\Dropbox\Learning\LeetCode\GeneralCollection\obj\Debug\GeneralCollection.pdb
